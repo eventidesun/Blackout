@@ -1,4 +1,6 @@
-# Otome Game 
+# Blackout
+
+An Otome game
 
 In progress...
 
